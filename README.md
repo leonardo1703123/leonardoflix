@@ -1,7 +1,11 @@
 [index.html](https://github.com/user-attachments/files/22006135/index.html)
 <head>
   <link rel="stylesheet" href="styles.css" />
+<titulo>
+  
+</titulo>
 </head>
+
 <body>
 
 <header>ALURA FLIX</header>
